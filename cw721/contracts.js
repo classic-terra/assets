@@ -706,6 +706,14 @@ module.exports = {
       homepage: "https://www.artsyapes.com/",
       marketplace: ["https://marketplace.luart.io/collections/terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8"],
     },
+      terra1cftxatw43hlxkhe7szfu0562q20j6pwsg9736k: {
+      contract: "terra1cftxatw43hlxkhe7szfu0562q20j6pwsg9736k",
+      protocol: "Kandis Protocol",
+      name: "Tori Tori no Mi",
+      symbol: "Tori Tori no Mi",
+      icon: "https://miata.io/assets/preview/d/13/d138a2a418e00c12c982ac9b6aeecb2c9b1137472bf3f34775a6d229102ece7d.jpg",
+      homepage: "https://www.kandisprotocol.com/",
+      marketplace: ["https://miata.io/creators/5/collection/16"]
   },
   testnet: {},
 };
